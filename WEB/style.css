@@ -1,0 +1,210 @@
+.page1 {
+    background-color: #E9D344;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    right: 0;
+    margin-right: 3%;
+    margin-top: 1%;
+    color: #000;
+    z-index: 1000;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+.logo {
+    position: fixed;
+    top: 5%;
+    left: 3%;
+    z-index: 1000;
+}
+
+.bg-1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.bg-2 {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.ufo {
+    position: absolute;
+    bottom: 17%;
+    left: 22%;
+}
+
+.pet {
+    position: absolute;
+    top: 30%;
+    left: 18%;
+}
+
+.tea {
+    position: absolute;
+    bottom: 35%;
+    right: 25%;
+}
+
+.gua {
+    margin-top: 15%;
+}
+
+.page2 {
+    background-color: #ffffff;
+}
+
+.text-box {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.h2 {
+    position: absolute;
+    bottom: 18%;
+    left: 37%;
+    font-size: x-large;
+    letter-spacing: 3px;
+}
+
+.h3 {
+    position: absolute;
+    top: 45%;
+    left: 16%;
+    font-size: large;
+    letter-spacing: 1px;
+}
+
+.h4 {
+    position: absolute;
+    bottom: 30%;
+    right: 20%;
+    font-size: large;
+    letter-spacing: 1px;
+}
+
+.star {
+    position: absolute;
+    top: 9%;
+    left: 37%;
+    animation: rotate 2.5s linear infinite;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.star2 {
+    position: absolute;
+    top: 15%;
+    left: 35%;
+    animation: rotate 2.5s linear infinite;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.bubble {
+    position: absolute;
+    top: 25%;
+    right: 29%;
+    opacity: 0;
+	animation: fadeIn 1.7s ease-in-out infinite;
+    animation-delay: 500ms;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.bubble2 {
+    position: absolute;
+    top: 30%;
+    right: 31.5%;
+    opacity: 0;
+	animation: fadeIn 1.7s ease-in-out infinite;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.page3 {
+    background-color: #E46B6B;
+}
+
+.row-3 {
+    height: 150px;
+}
+
+.row-2 {
+    height: 80px;
+}
+
+.bg-3 {
+    position: absolute;
+    bottom: 5%;
+    left: 0;
+}
+
+.bg-4 {
+    position: absolute;
+    top: 10%;
+    right: 0;
+}
+
+.other {
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+
+.bubble3 {
+    position: absolute;
+    top: 8%;
+    left: 34.5%;
+}
+
+.bubble4 {
+    position: absolute;
+    top: 15%;
+    right: 34%;
+}
+
+.page4 {
+    background-color: #367A2D;
+}
+
+.artwork1 {
+    margin-top: 3%;
+    height: 95%;
+}
+
+.artwork2 {
+    position: absolute;
+    top: 6%;
+    left: 25.5%;
+}
