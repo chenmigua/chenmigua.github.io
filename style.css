@@ -34,20 +34,20 @@
 
 .ufo {
     position: absolute;
-    bottom: 17%;
-    left: 22%;
+    bottom: 15%;
+    left: 20%;
 }
 
 .pet {
     position: absolute;
-    top: 30%;
-    left: 18%;
+    top: 27%;
+    left: 15%;
 }
 
 .tea {
     position: absolute;
     bottom: 35%;
-    right: 25%;
+    right: 22%;
 }
 
 .gua {
@@ -65,7 +65,7 @@
 .h2 {
     position: absolute;
     bottom: 18%;
-    left: 37%;
+    left: 35%;
     font-size: x-large;
     letter-spacing: 3px;
 }
@@ -73,15 +73,15 @@
 .h3 {
     position: absolute;
     top: 45%;
-    left: 16%;
+    left: 14%;
     font-size: large;
     letter-spacing: 1px;
 }
 
 .h4 {
     position: absolute;
-    bottom: 30%;
-    right: 20%;
+    bottom: 28%;
+    right: 18%;
     font-size: large;
     letter-spacing: 1px;
 }
@@ -207,18 +207,6 @@
     transform: scale(1.2);
 }
 
-.bubble3 {
-    position: absolute;
-    top: 8%;
-    left: 34.5%;
-}
-
-.bubble4 {
-    position: absolute;
-    top: 15%;
-    right: 34%;
-}
-
 .page4 {
     background-color: #367A2D;
 }
@@ -226,12 +214,6 @@
 .artwork1 {
     margin-top: 5%;
     height: 95%;
-}
-
-.artwork2 {
-    position: absolute;
-    top: 8%;
-    left: 25.5%;
 }
 
 .page5 {
@@ -302,14 +284,14 @@
 
 .onlinestore {
     position: absolute;
-    left: 5%;
-    bottom: 19%;
+    left: 3%;
+    bottom: 15%;
 }
 
 .arrow {
     position: absolute;
-    left: 30%;
-    bottom: 43%;
+    left: 28%;
+    bottom: 40%;
     animation: zoom-in 1s infinite alternate;
 }
 
@@ -336,8 +318,8 @@
 
 .zumb {
     position: absolute;
-    left: 30%;
-    bottom: 15%;
+    left: 25%;
+    bottom: 12%;
 }
 
 .heart {
@@ -358,19 +340,13 @@
 
 .contact {
     position: absolute;
-    right: 6%;
-    bottom: 15%;
-}
-
-.line {
-    position: absolute;
-    right: 42%;
-    bottom: 2%;
+    right: 4%;
+    bottom: 12%;
 }
 
 .text-box2 {
     position: absolute;
-    left: 39%;
+    left: 35%;
     top: 18%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     letter-spacing: 2px;
@@ -491,20 +467,6 @@
         left: 22%;
         top: 2.5%;
     }
-    
-    .bubble3 {
-        position: absolute;
-        width: 40px;
-        top: 2%;
-        left: 10%;
-    }
-    
-    .bubble4 {
-        position: absolute;
-        width: 40px;
-        top: 5%;
-        right: 10%;
-    }
 
     .ch1 {
         font-size: small;
@@ -552,16 +514,9 @@
 
     .artwork1 {
         position: absolute;
-        width: 240px;
+        width: 300px;
         top: 15%;
-        left: 18%;
-    }
-    
-    .artwork2 {
-        position: absolute;
-        width: 370px;
-        top: 15%;
-        left: 1%;
+        left: 10%;
     }
 
     .pic {
@@ -675,13 +630,6 @@
         right: 4%;
         bottom: 20%;
         width: 250px;
-    }
-    
-    .line {
-        position: absolute;
-        left: 4%;
-        bottom: 2%;
-        width: 20px;
     }
     
     .text-box2 {
