@@ -64,8 +64,8 @@
 
 .h2 {
     position: absolute;
-    bottom: 18%;
-    left: 35%;
+    bottom: 20%;
+    left: 37%;
     font-size: x-large;
     letter-spacing: 3px;
 }
@@ -346,7 +346,7 @@
 
 .text-box2 {
     position: absolute;
-    left: 35%;
+    left: 37%;
     top: 18%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     letter-spacing: 2px;
